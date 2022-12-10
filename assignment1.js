@@ -7,7 +7,7 @@ bag=bag+str[i];
 
 }
 if(str===bag){
-
+console.log(" Palindrome");
 }else{
 console.log("Not Palindrome");
 }
